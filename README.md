@@ -36,7 +36,7 @@ Como acceder a la web:
 
 
 
-Para acceder a la web utilizamos http://localhost:8081(En mi caso porque el puerto 8080 no me va). 
+Para acceder a la web utilizamos http://localhost:8081 (En mi caso porque el puerto 8080 no me va). 
 
 
 
