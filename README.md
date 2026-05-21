@@ -1,9 +1,6 @@
-Proyecto mi-landing-docker:
-
-
+<h3 id="titulo">mi-landing-docker</h3>:
 
 Que hace el proyecto:
-
 
 
 En lo que consiste es una landing personal desarrollada con HTML y CSS, lo que hace el proyecto es mediante un contenedor Docker se pueda acceder a la pagina web mediante el puerto que tenemos asignado.
