@@ -12,7 +12,7 @@
 <p>Para construirlo tenemos primero que realizar la pagina web con su código HTML y CSS, después tenemos que bajarnos la imagen de nginx desde el Docker Desktop y empezamos a construir el Dockerfile desde el powerShell de Windows primero tenemos que estar en la carpeta de mi-landing-Docker y desde hay creamos el dockerfile utilizando New-Item Dockerfile, para poder editarlo lo podemos hacer desde el bloc de notas y utilizamos lo que aparece en el pdf después lo guardamos y ya tenemos la configuración del Dockerfile el siguiente paso es montar la imagen para que podamos utilizarla, y es utilizando el comando Docker build -t mi-landing . y cuando lo utilicemos ponemos el comando Docker images y nos aparecerá la que hemos realizado, ya por ultimo para comprobar si va, vamos al navegador y ponemos en la barra de búsqueda localhost:8081(eso es en mi caso) y vemos que nos aparece la pagina web que hemos creado anteriormente.</p>
 
 
-<h2>Como ejecutarlo<h2>
+<h3>Como ejecutarlo</h3>
 
 
 <p>Para ejecutar el programa se hace desde el powerShell y utilizamos el comando docker compose up --build.</p>
