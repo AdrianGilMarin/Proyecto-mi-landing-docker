@@ -1,4 +1,4 @@
-<h4 id="titulo">mi-landing-docker</h4>
+<h1 id="titulo">mi-landing-docker</h1>
 
 <h2>Que hace el proyecto</h2>
 
